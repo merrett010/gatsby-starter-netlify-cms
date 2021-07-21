@@ -22,8 +22,10 @@ export const IndexPageTemplate = ({
         backgroundImage: `url(${
           !!image.childImageSharp ? image.childImageSharp.fluid.src : image
         })`,
-        backgroundPosition: `top left`,
+        backgroundPosition: `center`,
         backgroundAttachment: `fixed`,
+        height: `100vh`,
+
       }}
     >
       <div
@@ -62,6 +64,7 @@ export const IndexPageTemplate = ({
         >
           {subheading}
         </h3>
+        <div class="scroll-down"></div>
       </div>
     </div>
     <section className="section section--gradient">
