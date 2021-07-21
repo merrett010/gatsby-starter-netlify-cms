@@ -1,70 +1,33 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
-image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+title: Stuckey's School for the Soberly Challenged
+image: /img/schoolground.jpg
+heading: Stuckey's School for the Soberly Challenged
+subheading: Where academia and ale are encouraged
 mainpitch:
-  title: Why Kaldi
+  title: Our School
   description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+    Stuckey's has been an institution in the British way of schooling for generations. Many a Stuckey has passed through the school, going on to achieve great things. It is true that one of our alumni, Sam, is now even a full time Brewer. 
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  Whether you're an aspiring student, or a current student looking for information regarding upcoming trips and acitivities, you're in the right place. Have a look around, and get in touch with any of our teachers if you need a prospectus or more information.
 intro:
   blurbs:
-    - image: /img/coffee.png
+    - image: /img/crest.png
       text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
-    - image: /img/coffee-gear.png
+        Izcilība dzeršanā. It's what we stand for. Proving your excellence in drinking is one of the first steps towards becoming a student at the SSSC. But once you're in, you're in for good.
+    - image: /img/stag.png
       text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
-    - image: /img/tutorials.png
+        Students at the SSSC can expect a wide variety of school trips. Whether you're a stag or not, you'll  find our enrichment programs extremely enlightening.
+    - image: /img/visitbristol.png
       text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
-        Email us or call the store for details.
-    - image: /img/meeting-space.png
+        Our next school trip will be taking our students to Bristol! Keep an eye out on our blog posts for information on what you'll need & for live updates!
+    - image: /img/rings.png
       text: >
-        We believe that good coffee has the power to bring people together.
-        That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
+        Congratulations to one of our students who will be getting married this summer!
   heading: What we offer
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
     java’s origin and support the farmers that grew it. We take coffee
     production, roasting and brewing seriously and we’re glad to pass that
     knowledge to anyone. This is an edit via identity...
-main:
-  heading: Great coffee with no compromises
-  description: >
-    We hold our coffee to the highest standards from the shrub to the cup.
-    That’s why we’re meticulous and transparent about each step of the coffee’s
-    journey. We personally visit each farm to make sure the conditions are
-    optimal for the plants, farmers and the local environment.
-  image1:
-    alt: A close-up of a paper filter filled with ground coffee
-    image: /img/products-grid3.jpg
-  image2:
-    alt: A green cup of a coffee on a wooden table
-    image: /img/products-grid2.jpg
-  image3:
-    alt: Coffee beans
-    image: /img/products-grid1.jpg
 ---
