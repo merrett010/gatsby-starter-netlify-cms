@@ -6,6 +6,9 @@ description: Good news everyone, our first school trip of the year is just
   around the corner.
 featuredpost: true
 featuredimage: /img/bristol.jpeg
+tags:
+  - school-trip
+  - bristol
 ---
 ![Clifton Suspension Bridge](/img/bristol.jpeg "Clifton Suspension Bridge")
 
