@@ -21,7 +21,7 @@ intro:
     - image: /img/visitbristol.png
       text: >
         Our next school trip will be taking our students to Bristol! Keep an eye out on our blog posts for information on what you'll need & for live updates!
-    - image: /img/rings.jpeg
+    - image: /img/rings.png
       text: >
         Congratulations to one of our students who will be getting married this summer ~~2020~~ 2021!
   heading: What we offer
