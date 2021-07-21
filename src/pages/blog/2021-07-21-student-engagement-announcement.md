@@ -5,6 +5,8 @@ date: 2018-08-15T20:14:45.127Z
 description: One of our top students Ben has just become engaged to his fiancé Toni!
 featuredpost: false
 featuredimage: /img/218307542_500752927853346_6952385104489871386_n.jpg
+tags:
+  - engagement
 ---
 ![](/img/218307542_500752927853346_6952385104489871386_n.jpg)
 
