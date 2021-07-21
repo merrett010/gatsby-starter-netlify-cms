@@ -23,7 +23,7 @@ intro:
         Our next school trip will be taking our students to Bristol! Keep an eye out on our blog posts for information on what you'll need & for live updates!
     - image: /img/rings.png
       text: >
-        Congratulations to one of our students who will be getting married this summer ~~2020~~ 2021!
+        Congratulations to one of our students who will be getting married this summer!
   heading: What we offer
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
