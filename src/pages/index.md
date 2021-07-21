@@ -3,7 +3,7 @@ templateKey: index-page
 title: Stuckey's School for the Soberly Challenged
 image: /img/schoolground.jpg
 heading: Stuckey's School for the Soberly Challenged
-subheading: 
+subheading: Where academia and ale are encouraged
 mainpitch:
   title: Our School
   description: >
