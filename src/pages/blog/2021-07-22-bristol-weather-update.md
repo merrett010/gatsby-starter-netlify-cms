@@ -5,6 +5,9 @@ date: 2021-07-22T21:34:20.656Z
 description: Latest weather forecast details below...
 featuredpost: false
 featuredimage: /img/screenshot-2021-07-22-at-22.27.03.png
+tags:
+  - bristol
+  - school-trip
 ---
 ## Wet, Warm & Wild
 
