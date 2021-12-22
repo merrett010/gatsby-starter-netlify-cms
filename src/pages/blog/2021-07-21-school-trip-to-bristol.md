@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: School Trip to Bristol!
+title: Successful School Trip to Bristol!
 date: 2021-07-21T22:10:48.884Z
 description: Good news everyone, our first school trip of the year is just
   around the corner.
